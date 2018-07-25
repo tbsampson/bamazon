@@ -1,0 +1,35 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Homework",
+  "main": "bamazonManager.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbsampson/bamazon.git"
+  },
+  "keywords": [
+    "node.js",
+    "mysql",
+    "inquirer",
+    "table",
+    "UT",
+    "Coder",
+    "Camp",
+    "Homework"
+  ],
+  "author": "Tom Sampson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbsampson/bamazon/issues"
+  },
+  "homepage": "https://github.com/tbsampson/bamazon#readme"
+}
